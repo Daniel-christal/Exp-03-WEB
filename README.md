@@ -1,6 +1,6 @@
 # Exp-03-WEB
-# Name:Bhuvanesh.S.R
-# Reference no:23013380
+# Name:DANIEL.C
+# Reference no:23008937
 # AIM
 Create a Django website with five users using function-based views. Two users are to be staff users (including admin) and the other three users are non-staff users.
 
@@ -33,7 +33,9 @@ Step 9:
 Enter given credentials to sign in into django server.
 
 # Output:
-![WEb exp 3 django SS](https://github.com/Bhuvanesh-Suresh/ODD2023-WT-Ex-02-Admin/assets/145742661/00242ecb-ef44-46b8-bdea-80843f711a8c)
+![image](https://github.com/Daniel-christal/Exp-03-WEB/assets/145742847/a917effe-f01f-4a0c-8fe7-7a38e0f487fa)
+
+
 
 
 # Result:
